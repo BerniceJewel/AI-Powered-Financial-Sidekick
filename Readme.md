@@ -1,4 +1,3 @@
-# AI-wk1-assigment
 **CryptoBuddy 🤖💰**
 *A Python-based cryptocurrency advisory chatbot using rule-based AI*
 
