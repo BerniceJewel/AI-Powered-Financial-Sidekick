@@ -3,7 +3,7 @@
 
 ![Chatbot Demo](https://github.com/Vosty17/ScreenshotDemo.jpeg/blob/main/IMG_20250527_132805.jpg )
 ## Demo video 
-![Bot video](https://github.com/Vosty17/AI-wk1-assigment/blob/main/demo%20video.mp4)
+![Bot video](https://github.com/BerniceJewel/AI-Powered-Financial-Sidekick/blob/main/demo%20video.mp4)
 ## 📌 Overview
 CryptoBuddy is a **command-line chatbot** that helps users get quick insights on cryptocurrency investments based on:
 - **Price trends** 📈
@@ -26,8 +26,8 @@ Built with **Python** and designed with **OOP principles**, it mimics basic AI d
 ## 🛠️ Installation
 1. Clone the repository
    ```bash
-    https://github.com/Vosty17/AI-wk1-assigment.git
-   cd AI-wk1-assignment
+    https://github.com/BerniceJewel/AI-Powered-Financial-Sidekick
+   cd AI-Powered-Financial-Sidekick
    ```
 
 2. Run the chatbot (Python 3.6+ required)
